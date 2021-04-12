@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">firstApp</string>
+    <string name="expression_label">計算式</string>
+    <string name="calculation">計算</string>
+    <string name="expression_error">計算式を入力してください</string>
+    <string name="placeholder">1+2(3*4)</string>
+    <string name="expression_placeholder">式</string>
+    <string name="expression_result_label">%1$sの計算結果は</string>
+    <string name="expression_result">%1$sです</string>
+</resources>
